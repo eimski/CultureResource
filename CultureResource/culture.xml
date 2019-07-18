@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <Languages>
+    <ID>test</ID>
+    <English>Test</English>
+    <Japanese>テスト</Japanese>
+  </Languages>
+  <Languages>
+    <ID>eee</ID>
+    <English>eeee</English>
+    <Japanese>eeee</Japanese>
+  </Languages>
+</AppData>
